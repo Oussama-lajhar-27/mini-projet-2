@@ -6,11 +6,9 @@
     --text-color: #EEEEEE;
     --sub-text-color: #AAAAAA;
     --font-family: 'Poppins', sans-serif;
-
-
     --padding-lg: 100px;
     --padding-md: 60px;
-    --max-width: 1400px;
+    --max-width: 1401px;
 }
 
 * {
