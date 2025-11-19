@@ -520,11 +520,13 @@ footer .container {
         width: 100%;
     }
 
+
     .about-grid,
     .contact-grid,
     .services-grid {
         grid-template-columns: 1fr;
         gap: 30px;
+
     }
 }
 
